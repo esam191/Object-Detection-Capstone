@@ -6,7 +6,7 @@
 2. Tegveer Singh - 100730432
 3. Mihirkumar Patel - 100702168
 4. Clarissa Branje - 100716458
-5. Ashwin Sudarshan
+5. Ashwin Shanmugam - 100700236
 
 ## Objective:
 
