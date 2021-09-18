@@ -1,4 +1,4 @@
-# Design and Development of an Object Detection Algorithm
+# Design and Development of an Object Detection System
 
 ## Group Members/Collaborators:
 
