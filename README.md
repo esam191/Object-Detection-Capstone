@@ -8,6 +8,8 @@
 4. Clarissa Branje - 100716458
 5. Ashwin Shanmugam - 100700236
 
+## Proposed and Supervised by: Dr. Khalid A. Hafeez
+
 ## Objective:
 
 To build a smart algorithm to detect and classify the desired objects such that it can be applied to object detection in autonomous vehicles and related scenarios.
